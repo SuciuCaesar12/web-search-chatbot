@@ -16,4 +16,6 @@ pip install -r requirements.txt
 streamlit run ./src/app.py
 ```
 
-<img src="resources/demo.png" alt="Chatbot Demo" width="500">
+<p align="center">
+  <img src="resources/demo.png" alt="Chatbot Demo" width="500">
+</p>
